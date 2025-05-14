@@ -1,4 +1,4 @@
-package jp.ac.gifu_u.info.nakao.myapplication250423;
+/*package jp.ac.gifu_u.info.nakao.myapplication250423;
 
 import android.os.Bundle;
 import android.view.View;
@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
-        });*/
+        });
         //Button b = findViewById(R.id.button);
         //b.setOnClickListener(this);
     }
@@ -34,3 +34,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         finish();
     }
 }
+*/
